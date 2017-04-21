@@ -9,7 +9,7 @@ If you would like to preview the app, use Cloud 9 IDE's terminal and
 follow the commands below to install the correct version of node, cordova
 and ionic.  
 
-git clone https://your-repo-url
+git clone https://github.com/jtranssf/TKTest.git
 cd TKTest
 nvm install 6.9.4 
 nvm use alias 6.9.4
